@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    border: 1px;
+    padding: 5px;
+    background-color: rgba(139, 154, 155, 0.904);
+}
+.contenedor-grande {
+    background-color: aqua;
+    border: 3px solid black;
+    padding: 2px;
+    width: 85%;
+    height: 230px;
+}
+.contenedor-1 {
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid black;
+    background-color: rgb(255, 255, 255);
+}
+.contenedor-2{
+    margin: 15px;
+    padding: 5px;
+    border: 3px solid black;
+    background-color: rgb(255, 255, 255);
+}
+.contenedor-3{
+    margin: 15px;
+    padding: 30px;
+    border: 3px solid black;
+    background-color: rgb(255, 255, 255);
+}
